@@ -10,27 +10,15 @@
   ],
   "operatingsystem_support": [
     {
-      "operatingsystem": "CentOS",
+      "operatingsystem": "Debian",
       "operatingsystemrelease": [
-        "7"
+        "8"
       ]
     },
     {
-      "operatingsystem": "OracleLinux",
+      "operatingsystem": "Ubuntu",
       "operatingsystemrelease": [
-        "7"
-      ]
-    },
-    {
-      "operatingsystem": "RedHat",
-      "operatingsystemrelease": [
-        "7"
-      ]
-    },
-    {
-      "operatingsystem": "Scientific",
-      "operatingsystemrelease": [
-        "7"
+        "16.04"
       ]
     }
   ],
